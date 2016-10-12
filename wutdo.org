@@ -1,2 +1,17 @@
-* Implement network stack
-* Port OGL
+Normally I just divide and order tasks, but I will also provide descriptions of how we can do stuff.
+* Descriptions
+** How to edit files
+*** Install templeos on virtualbox (what I am using)
+*** Copy files
+*** Reboot (JIT compiles these files)
+* What to do
+** ARP
+*** 
+** IP
+*** 
+** UDP
+*** 
+** ICMP
+*** 
+** TCP
+*** 

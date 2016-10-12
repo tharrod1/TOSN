@@ -1,7 +1,5 @@
 * Hardware Spec
 ** Ne2000: http://wiki.osdev.org/Ne2000
 * TempleOS
-** How To Make OS: https://www.youtube.com/watch?v=oLeiioX_zRY
-** Clean kernel: https://www.youtube.com/watch?v=zbqLDfo2loo
 ** File src: http://www.templeos.org/Wb/Home/Web/LineRep.html#l553
-** Raw src: http://www.templeos.org/Wb/
+** How to make distro: https://www.youtube.com/watch?v=FBZayVDMZmE
